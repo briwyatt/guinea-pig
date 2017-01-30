@@ -1,0 +1,39 @@
+/*
+You'll be using element.classList to manipulate the CSS classes on elements.
+Note: Output target is the "output-target" element.
+*/
+
+/*The first section's text should be bold.*/
+#first-section {
+	font-weight: bold;
+}
+
+/*The last section's text should be bold and italicized.*/
+#last-section {
+	font-weight: bold;
+	font-style: italic;
+}
+
+/*Make the buttons stop appearing next to each other as inline elements. Change them into block elements.*/
+button {
+	display: block;
+}
+
+/*When you click the "Add color" button, the guinea-pig element's text color should change to blue.*/
+.blue {
+	color: blue;
+}
+
+/*When you click the "Hulkify" button, the guinea-pig element's font size should become much larger.*/
+.large {
+ 	font-size: 2em;
+}
+
+/*When you click the "Capture it" button, the guinea-pig element should have a border added to it.*/
+.bordered {
+ 	border: 2px solid blue;
+}
+
+.rounded {
+ border-radius: 10px;
+}
