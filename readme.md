@@ -15,9 +15,11 @@ When you click the "Rounded" button, the guinea-pig element's border should beco
 The first section's text should be bold.
 The last section's text should be bold and italicized.
 Make the buttons stop appearing next to each other as inline elements. Change them into block elements.
-Boilerplate DOM
 
-``` <header id="page-header">
+
+``` Boilerplate DOM
+
+ <header id="page-header">
     <h1 id="page-title">Page title</h1>
   </header>
 
